@@ -1,11 +1,15 @@
-function App() {
+const App = () => {
   return (
     <>
-      <div className="flex justify-center items-center h-screen">
-        <button className="btn btn-primary">Test</button>
-      </div>
+      <div className="container"></div>
     </>
   );
-}
+};
 
 export default App;
+
+/* Erillaisia tyylejä määritellä React komponentteja / funktioita
+  function App() {}
+  const App = () => {}
+  export default function App() {}
+*/
