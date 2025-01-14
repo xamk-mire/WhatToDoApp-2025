@@ -8,7 +8,7 @@ const App = () => {
 
 export default App;
 
-/* Erillaisia tyylejä määritellä React komponentteja / funktioita
+/* Different ways to implement react components/functions
   function App() {}
   const App = () => {}
   export default function App() {}

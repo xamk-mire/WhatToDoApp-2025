@@ -1,1 +1,1 @@
-Tämä osio on varattu sovelluksen client/frontend toteutukselle
+This folder is reserved for frontend/client side implementation

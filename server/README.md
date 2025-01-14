@@ -1,1 +1,1 @@
-Tämä osio on varattu sovelluksen serverin/backend:n toteutukselle
+This folder is reserved for backend/server side implementation
